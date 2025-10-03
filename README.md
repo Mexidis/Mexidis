@@ -79,8 +79,7 @@ I enjoy solving challenging problems through **competitive programming**, and I 
 
 ## 🎮 Hobbies & Interests
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJqeXNtaDRrb2EwdmoxM3A2YzhpN3ZoNmNkajlxZHk5c2pwbGY2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rAmtvwCQRhNHa/giphy.gif" /><br/>
-Beyond coding, I enjoy:
-- 🏆 Competitive programming and algorithmic problem-solving  
+Beyond coding, I enjoy: 
 - ✈️ Passion for aviation, inspired by my training as an Air Force cadet  
 - 🏅 Practicing team-sports, like flag football, basketball, football  
 - 🐱 Appreciation for cats and animals  
